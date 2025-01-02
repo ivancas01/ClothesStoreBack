@@ -1,0 +1,5 @@
+# Ignorar la carpeta media (archivos subidos)
+media/
+
+# Ignorar la base de datos SQLite
+*.sqlite3
